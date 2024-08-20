@@ -13,13 +13,15 @@ I am a final-year B.Tech CS AIML student at LNCT&S Bhopal, passionate about blen
 
 ## 🌱 Currently Exploring
 
-- 🚀 Full Stack Web Development
+- ### 🚀 Full Stack Web Development
+  
   - Mastering React and Redux for creating dynamic and responsive front-end experiences.
   - Crafting modern, responsive user interfaces with advanced CSS frameworks like Tailwind.
   - Building scalable server-side applications with Django, leveraging Python's power.
   - Deepening my understanding of databases to ensure efficient and scalable data management.
     
-- 🚀 Exploring Machine Learning
+- ### 🚀 Machine Learning
+  
   - Sharpening my ability to create predictive models that turn data into actionable insights.
   - Delving into Natural Language Processing (NLP) to enable machines to understand and interact with human language.
 
@@ -31,6 +33,7 @@ I am a final-year B.Tech CS AIML student at LNCT&S Bhopal, passionate about blen
 ## 📬 Get in Touch
 
 - Connect with me on [LinkedIn](www.linkedin.com/in/dharitri-raj)
+- Email: [idharitriraj@gmail.com](mailto:idharitriraj@gmail.com)
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
 
